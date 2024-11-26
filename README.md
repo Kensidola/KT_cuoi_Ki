@@ -7,5 +7,5 @@ Steps to build
 
 Executables
 ===========
-* cd Debug
-* BT_cuoi_Ki.exe
+* go to Debug folder
+* execute BT_cuoi_Ki.exe
