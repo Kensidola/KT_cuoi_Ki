@@ -160,8 +160,8 @@ int main( int argc, const char** argv )
 		return 0;
 	}
 
-	String img_file= "C:\\Users\\datch\\OneDrive\\Máy tính\\Chapter_05\\data\\test_noise.pgm";
-	String light_pattern_file= "C:\\Users\\datch\\OneDrive\\Máy tính\\Chapter_05\\data\\light.pgm";
+	String img_file= "BT_cuoi_Ki/data/test.pgm";
+	String light_pattern_file= "BT_cuoi_Ki/data/light.pgm";
 	auto method_light= parser.get<int>("lightMethod");
 	auto method_seg= parser.get<int>("segMethod");
 
